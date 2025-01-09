@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227710522821",
+    "firebase_url": "https://optixtoolkit.firebaseio.com",
+    "project_id": "optixtoolkit",
+    "storage_bucket": "optixtoolkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227710522821:android:65d210d42551347db767ac",
+        "android_client_info": {
+          "package_name": "org.team3749.toolkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227710522821-0n7c6gib2gidoh7cncku0b7kmt6520kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLm_SO7-d9HwSCdElHD3K3MNhnDrWaLdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227710522821-0n7c6gib2gidoh7cncku0b7kmt6520kn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227710522821-68ddjkuobm9ojjsbqp3tng4q3n72vek9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.team3749.toolkit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
